@@ -6,5 +6,6 @@
 
 详情请查看-》IO操作.pptx：包含文件目录和文件操作(Path/File/FileInfo/Directory/DirectoryInfo)、Stream相关子类操作
 
+注意：StreamReader和StreamWriter类帮我们实现在流上【读写字符串】的功能，只能用于文本字符串的读取。
 
 ## Excel操作
